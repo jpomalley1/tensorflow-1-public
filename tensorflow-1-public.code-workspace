@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "tensorflow-1-public",
+			"path": "."
+		},
+		{
+			"name": "TesnorDevs",
+			"path": "../TesnorDevs"
+		}
+	],
+	"settings": {}
+}
